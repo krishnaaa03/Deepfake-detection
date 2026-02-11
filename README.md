@@ -29,14 +29,7 @@ Deepfake_detection_using_deep_learning
   <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/System%20Architecture.png" />
 </p>
 
-## 4. Demo 
-### You can watch the [youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE&t=823s) for demo
-
-<p align="center">
-  <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" />
-</p>
-
-## 5. Our Results
+## 4. Our Results
 
 | Model Name | No of videos | No of Frames | Accuracy |
 |------------|--------------|--------------|----------|
@@ -46,49 +39,5 @@ Deepfake_detection_using_deep_learning
 |model_90_acc_60_frames_final_data.pt | 6000| 60 |90.59097 |
 |model_91_acc_80_frames_final_data.pt | 6000 | 80 | 91.49818 |
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
-
-## 6. Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/abhijitjadhav1998/"><img src="https://avatars.githubusercontent.com/u/38549908?v=4?s=100" width="100px;" alt="Abhijit Jadhav"/><br /><sub><b>Abhijit Jadhav</b></sub></a><br /><a href="#projectManagement-abhijitjadhav1998" title="Project Management">📆</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://vthonte.vercel.app/"><img src="https://avatars.githubusercontent.com/u/43621438?v=4?s=100" width="100px;" alt="Vishwesh Thonte"/><br /><sub><b>Vishwesh Thonte</b></sub></a><br /><a href="#maintenance-vthonte" title="Maintenance">🚧</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-#### 6.1 Offline Contributors
-   1. Jay Patel
-   2. Hitendra Patil
-   3. Abhishek Patange
-   
-## 7. License
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-## 8. We welcome Open Source Contribution. 
-### Below are the some changes that can be applied to the project. New Ideas will be appreciated.
-- [ ] Deploying the applications in free cloud 
-- [ ] Creating open source API for detection
-- [ ] Batch processing of entire video instead of processing first 'x' frames.
-- [ ] Optimizing the code for faster execution.
-#### Completed 
-- [X] Dockerizing the app
-- [X] Enabling working of project on Non Cuda Computers. i.e on normal or AMD GPUs
+ 
 
